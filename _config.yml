@@ -3,11 +3,11 @@ baseurl: "/baseball-girl-web"
 
 # 网页的标题
 title: "棒球少女"
-username: 海来金里
+username: 海来金里-棒球少女成长日记
 # 网站副标题
-description: "棒球少女的成长日记"
+description: "棒球少女成长日记"
 
-aboutme: "棒球场上的小小牛魔王 ヾ(◍°∇°◍)ﾉﾞ"
+aboutme: "我是海来金里，棒球场上的小小牛魔王 ヾ(◍°∇°◍)ﾉﾞ "
 
 # 其它配置, 可忽略, 无需修改
 markdown: kramdown
