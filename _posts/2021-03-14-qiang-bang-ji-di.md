@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "关于强棒"
-background: "/assets/images/100.jpg"
+background: "/assets/images/qiangbang-001.png"
 category: "介绍"
 tags: 简介 feature
 ---
