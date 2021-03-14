@@ -3,7 +3,7 @@ layout: post
 title:  "关于强棒"
 background: "/assets/images/100.jpg"
 category: "介绍"
-tags: 简介
+tags: 简介 feature
 ---
 
 # 关于强棒天使项目
