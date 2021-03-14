@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hello my baseball world "
+title:  "Hello My Baseball World "
 background: "/assets/images/jinli-002.JPG"
 category: "introduce"
 tags: 随笔 feature
