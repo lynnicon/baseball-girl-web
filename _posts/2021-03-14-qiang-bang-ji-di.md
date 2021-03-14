@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "关于强棒"
+title:  "走进强棒基地"
 background: "/assets/images/qiangbang-001.png"
 category: "介绍"
 tags: 简介 feature
 ---
 
+在这，我想给带大家简单了解一下我所在的强棒基地，以及它背后的[强棒天使项目](https://baike.baidu.com/item/%E5%BC%BA%E6%A3%92%E5%A4%A9%E4%BD%BF%E9%A1%B9%E7%9B%AE/53242363?fr=aladdin)~ gogogo~ 
 
 ![qiangbang-001](../assets/images/qiangbang-001.png) 
 
