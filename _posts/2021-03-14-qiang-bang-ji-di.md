@@ -6,7 +6,6 @@ category: "介绍"
 tags: 简介 feature
 ---
 
-# 关于强棒天使项目
 
 ![qiangbang-001](../assets/images/qiangbang-001.png) 
 
